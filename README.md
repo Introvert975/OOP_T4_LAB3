@@ -7,5 +7,7 @@
 Страница:
 ![image](https://github.com/Introvert975/OOP_T4_LAB3/assets/124875856/5d640b9f-931a-420a-860f-e08bf8e0bf7a)
 Процесс добавления:
-
+![image](https://github.com/Introvert975/OOP_T4_LAB3/assets/124875856/22b318d2-b8ef-4198-a6dd-3bf91b89d719)
 Результат:
+![image](https://github.com/Introvert975/OOP_T4_LAB3/assets/124875856/504fdb22-0856-4d5e-8c57-318fcac6f518)
+
